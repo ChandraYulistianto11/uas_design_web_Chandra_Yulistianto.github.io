@@ -1,0 +1,1244 @@
+.hi-fi-wireframe-payment .image-5 {
+  background: url('assets/images/Image30.png') 50% / cover no-repeat;
+  margin: 12px 0;
+  width: 178px;
+  height: 22px;
+}
+.hi-fi-wireframe-payment .watches {
+  margin-right: 17px;
+  width: 82px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .eyewear {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .accessories {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .news {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .group-13 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 445px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .shape-1 {
+  width: 25.6px;
+  height: 25.6px;
+}
+.hi-fi-wireframe-payment .search {
+  margin: 10.8px 0 9.6px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .shape {
+  width: 17.3px;
+  height: 21.1px;
+}
+.hi-fi-wireframe-payment .user {
+  margin: 12px 10.9px 12.9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .log-in {
+  margin: 8px 40.5px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .shape-2 {
+  width: 17.3px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .cart {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-8 {
+  border-radius: 23px;
+  background: #F1DDC9;
+  position: relative;
+  display: flex;
+  padding: 11px 13.9px 11px 14.8px;
+  width: 46px;
+  height: 46px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-10 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-28 {
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1110px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .group {
+  width: 29px;
+  height: 33.5px;
+}
+.hi-fi-wireframe-payment .checkout-1 {
+  margin: 7px 0 7.5px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .payment-1 {
+  width: 48px;
+  height: 48px;
+}
+.hi-fi-wireframe-payment .shape-3 {
+  width: 29.1px;
+  height: 27.9px;
+}
+.hi-fi-wireframe-payment .confirm {
+  margin: 10px 0 10.1px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-27 {
+  margin-right: 9.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 602.1px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .checkout {
+  margin-right: 29.8px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #999999;
+}
+.hi-fi-wireframe-payment .line-34 {
+  background: #333333;
+  margin: 16px 24px 15px 0;
+  width: 114px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment .payment {
+  margin-right: 19.4px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #D84727;
+}
+.hi-fi-wireframe-payment .line-35 {
+  background: #333333;
+  margin: 16px 24px 15px 0;
+  width: 114px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment .confirmation {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #999999;
+}
+.hi-fi-wireframe-payment .container-30 {
+  margin: 0 0.8px 40px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .detail-order {
+  margin-bottom: 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.7px;
+  line-height: 1.333;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .subtotal-shipping-cost-promo-code-packaging {
+  margin-right: 45.5px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.7px;
+  line-height: 2.5;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .rp-2152000-rp-500000-indonesia-rp-50000 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.7px;
+  line-height: 2.5;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-1 {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .line-36 {
+  background: #333333;
+  margin-bottom: 23px;
+  width: 476px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment .grand-total {
+  margin-right: 30px;
+  width: 144px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.7px;
+  line-height: 2.5;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .rp-2702000 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 36px;
+  letter-spacing: 1.1px;
+  line-height: 1.667;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-32 {
+  margin-right: 7.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 468.5px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-21 {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .payment-detail {
+  margin-right: 24px;
+  width: 289px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.7px;
+  line-height: 1.333;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #D93F3F;
+}
+.hi-fi-wireframe-payment .container-15 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 475.2px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .please-make-apayment-according-with-the-limit-time-specified-starting-from-now {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-11 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 32.8px 24px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-4 {
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .order-detail {
+  margin-bottom: 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.7px;
+  line-height: 1.333;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .order-number {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .mtaweb-3-a-86-d-4-db {
+  margin-right: 28.6px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .copy {
+  margin: 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: #D84727;
+}
+.hi-fi-wireframe-payment .container-39 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-46 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 476px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .always-remember-order-number-for-easy-tracking {
+  margin: 0 3.7px 24px 3.7px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: #777777;
+}
+.hi-fi-wireframe-payment .purchase-date {
+  margin-right: 16px;
+  width: 137px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-45 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 399.1px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .items {
+  margin: 0 16px 74px 0;
+  display: inline-block;
+  width: 54px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .way-kambas-mini-ebony-2-xidr-1024000-sikka-ebony-mapple-1-xidr-1264000 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.way-kambas-mini-ebony-2-xidr-1024000-sikka-ebony-mapple-1-xidr-1264000-sub6 {
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 1.333;
+  color: #777777;
+}
+.way-kambas-mini-ebony-2-xidr-1024000-sikka-ebony-mapple-1-xidr-1264000 {
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 1.333;
+  color: #777777;
+}
+.hi-fi-wireframe-payment .container-9 {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 448.4px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .name {
+  margin-right: 16px;
+  width: 55px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .rasyidin-arsyad-nasution {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-38 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 446.2px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .phone {
+  margin-right: 16px;
+  width: 61px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-22 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 342.9px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .email {
+  margin-right: 16px;
+  width: 54px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .rasyid-arsyadgmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-42 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 438.7px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .shipping-address {
+  margin: 0 32.3px 32px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .richardson-drive-fountain-valley-ca-92708 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-20 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-33 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 32px 48px 32px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-16 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .payment-method {
+  margin-bottom: 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 0.7px;
+  line-height: 1.333;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .ellipse-13 {
+  border-radius: 12px;
+  margin: 4px 16px 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .bni-cicilan-0 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-37 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .ellipse-16 {
+  border-radius: 12px;
+  margin: 4px 16px 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .mandiri-cicilan-0 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-47 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .ellipse-14 {
+  border-radius: 12px;
+  margin: 4px 16px 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .bank-transfer {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-19 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .ellipse-15 {
+  border-radius: 12px;
+  margin: 4px 16px 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .credit-card {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-17 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-13 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 910px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .image-46 {
+  background: url('assets/images/Image25.png');
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-38 {
+  background: url('assets/images/Image32.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-45 {
+  background: url('assets/images/Image26.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-44 {
+  background: url('assets/images/Image27.png') 50% / cover no-repeat;
+  margin-right: 22px;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-37 {
+  background: url('assets/images/Image29.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: 222px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-41 {
+  margin: 0 0 40px 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 983px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .ellipse-17 {
+  border-radius: 12px;
+  margin: 4px 16px 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .credit-card-cicilan-0-danamon-uob-standard-chartered {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .ellipse-18 {
+  border-radius: 12px;
+  margin: 4px 16px 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .go-pay {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-26 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .ellipse-19 {
+  border-radius: 12px;
+  margin: 4px 16px 4px 0;
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment .krdivo {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment .container-18 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-2 {
+  margin: 0 34.2px 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 988.8px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .image-43 {
+  background: url('assets/images/Image28.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-40 {
+  background: url('assets/images/Image34.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-42 {
+  background: url('assets/images/Image36.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .container {
+  display: flex;
+  flex-direction: row;
+  column-gap: 33px;
+  width: 366px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .image-41 {
+  background: url('assets/images/Image35.png') 50% / cover no-repeat;
+  margin-right: 100px;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-39 {
+  background: url('assets/images/Image33.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .container-12 {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-24 {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 983px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-36 {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 55px 32px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .proceed-payment {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.6px;
+  line-height: 1.6;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .container-14 {
+  background: #D84727;
+  position: relative;
+  margin: 0 0 84px 860px;
+  display: flex;
+  padding: 15px 0.5px 14px 0;
+  width: 250px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .image-25 {
+  background: url('assets/images/Image25.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-26 {
+  background: url('assets/images/Image26.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-27 {
+  background: url('assets/images/Image27.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-28 {
+  background: url('assets/images/Image28.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-29 {
+  background: url('assets/images/Image29.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .container-34 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 100px;
+  width: 900px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .image-32 {
+  background: url('assets/images/Image32.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-33 {
+  background: url('assets/images/Image33.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-34 {
+  background: url('assets/images/Image34.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-35 {
+  background: url('assets/images/Image35.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .image-36 {
+  background: url('assets/images/Image36.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.hi-fi-wireframe-payment .container-25 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 100px;
+  width: 900px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-23 {
+  background: #DA5E42;
+  position: relative;
+  margin-bottom: 43px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0 23px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .image-30 {
+  background: url('assets/images/Image30.png') 50% / cover no-repeat;
+  margin: 8px 0 11px 0;
+  width: 178px;
+  height: 22px;
+}
+.hi-fi-wireframe-payment .get-in-touch {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .useful-link {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .campaign {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .container-6 {
+  margin-right: 130.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 979.7px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .line-16 {
+  background: #FFFFFF;
+  width: 60px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment .line-17 {
+  background: #FFFFFF;
+  width: 60px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment .line-18 {
+  background: #FFFFFF;
+  width: 60px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment .container-44 {
+  margin: 0 0 15px 90px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 630px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .address {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .store-office-jl-setrasari-kulon-iii-no-1012-sukarasa-sukasari-bandung-jawa-barat-indonesia-40152 {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .office-hour {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .monday-sunday-10001800 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .container-48 {
+  margin-right: 32.2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .phone-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .service-center {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .customer-service {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .combined-shape {
+  width: 32px;
+  height: 32px;
+}
+.hi-fi-wireframe-payment .facebook {
+  margin-right: 25px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .instagram {
+  width: 32px;
+  height: 32px;
+}
+.hi-fi-wireframe-payment .container-40 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 89px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-7 {
+  margin: 0 5px 34px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-4 {
+  margin: 0 6.6px 7px 19px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .container-3 {
+  margin: 0 0 32px 19px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .container-5 {
+  margin: 0 0 53px 19px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .combined-shape-3 {
+  width: 32px;
+  height: 32px;
+}
+.hi-fi-wireframe-payment .twitter {
+  margin-right: 25px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .youtube {
+  width: 32px;
+  height: 32px;
+}
+.hi-fi-wireframe-payment .container-31 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 89px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-43 {
+  margin: 3px 61.8px 34px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .warranty-complaints-order-shipping-tracking-order-about-us-repair-terms-faq {
+  margin: 0 60.9px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .mengenal-arti-cukup-tell-your-difference-waykambas-rebrand-gallery-singo-rakai {
+  margin-bottom: 28px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment .container-35 {
+  margin-right: 77.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment .container-29 {
+  background: #D84727;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 75px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment {
+  background: #F7F6F4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,810 @@
+.hi-fi-wireframe-payment-1 .image-5 {
+  background: url('assets/images/Image30.png') 50% / cover no-repeat;
+  margin: 12px 0;
+  width: 178px;
+  height: 22px;
+}
+.hi-fi-wireframe-payment-1 .watches {
+  margin-right: 17px;
+  width: 82px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .eyewear {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .accessories {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .news {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .group-13 {
+  margin: 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 445px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .shape-1 {
+  width: 25.6px;
+  height: 25.6px;
+}
+.hi-fi-wireframe-payment-1 .search {
+  margin: 10.8px 0 9.6px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .shape {
+  width: 17.3px;
+  height: 21.1px;
+}
+.hi-fi-wireframe-payment-1 .user {
+  margin: 12px 10.9px 12.9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .log-in {
+  margin: 8px 40.5px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.4px;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .shape-2 {
+  width: 17.3px;
+  height: 24px;
+}
+.hi-fi-wireframe-payment-1 .cart {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-1 {
+  border-radius: 23px;
+  background: #F1DDC9;
+  position: relative;
+  display: flex;
+  padding: 11px 13.9px 11px 14.8px;
+  width: 46px;
+  height: 46px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-18 {
+  margin: 0 2px 55px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1110px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .group-1 {
+  width: 29px;
+  height: 33.5px;
+}
+.hi-fi-wireframe-payment-1 .checkout-1 {
+  margin: 7px 0 7.5px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .payment-1 {
+  width: 48px;
+  height: 48px;
+}
+.hi-fi-wireframe-payment-1 .shape-4 {
+  width: 30.1px;
+  height: 28.8px;
+}
+.hi-fi-wireframe-payment-1 .confirm {
+  margin: 10px 0 9.2px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-22 {
+  margin: 0 4.9px 2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 619.1px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .checkout {
+  margin-right: 29.8px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #999999;
+}
+.hi-fi-wireframe-payment-1 .line-34 {
+  background: #333333;
+  margin: 16px 24px 15px 0;
+  width: 114px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment-1 .payment {
+  margin-right: 25px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #999999;
+}
+.hi-fi-wireframe-payment-1 .line-35 {
+  background: #333333;
+  margin: 16px 24px 15px 0;
+  width: 114px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment-1 .confirmation {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #D84727;
+}
+.hi-fi-wireframe-payment-1 .container-13 {
+  margin: 0 0 40px 6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .undraw-completing-6-bhr-1 {
+  margin-bottom: 40px;
+  width: 367px;
+  height: 241px;
+}
+.hi-fi-wireframe-payment-1 .order-confirmed {
+  margin: 0 0.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  line-height: 1.333;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .your-order-have-been-confirmed-please-wait-and-track-your-order {
+  margin-bottom: 60px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .go-to-track-page {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .container-9 {
+  background: #D84727;
+  position: relative;
+  display: flex;
+  padding: 18px 0.6px 18px 0;
+  width: 367px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-10 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 0 42px 0;
+  width: 540px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .shape-5 {
+  width: 18px;
+  height: 18px;
+}
+.hi-fi-wireframe-payment-1 .time {
+  margin: 7.5px 10.5px 6.5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .days-delivery {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 2;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .container-21 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .group {
+  width: 19.9px;
+  height: 11.1px;
+}
+.hi-fi-wireframe-payment-1 .courier {
+  margin: 10px 10px 10.9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .dhl-express {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 2;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .container-20 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-7 {
+  margin: 0 4.5px 32px 4.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 319.2px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .way-kambas-mini-ebony-2-xidr-1024000-sikka-ebony-mapple-1-xidr-1264000 {
+  margin: 0 1px 37px 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.way-kambas-mini-ebony-2-xidr-1024000-sikka-ebony-mapple-1-xidr-1264000-sub6 {
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 1.333;
+  color: #777777;
+}
+.way-kambas-mini-ebony-2-xidr-1024000-sikka-ebony-mapple-1-xidr-1264000 {
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 1.333;
+  color: #777777;
+}
+.hi-fi-wireframe-payment-1 .subtotal-shipping-cost-packaging {
+  margin-right: 45.5px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.7px;
+  line-height: 2;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .rp-2152000-rp-500000-rp-50000 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.7px;
+  line-height: 2;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .container-25 {
+  margin: 0 1px 24px 1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .line-38 {
+  background: #999999;
+  margin: 0 0 15.5px 1px;
+  width: 476px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment-1 .grand-total {
+  margin-right: 30px;
+  width: 144px;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.7px;
+  line-height: 2.5;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .rp-2702000 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 36px;
+  letter-spacing: 1.1px;
+  line-height: 1.667;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .container-23 {
+  margin: 0 7.5px 16px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 468.5px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .line-39 {
+  background: #999999;
+  margin: 0 0 15.5px 1px;
+  width: 476px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment-1 .shipping-address {
+  margin: 0 32.3px 32px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .richardson-drive-fountain-valley-ca-92708 {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.6;
+  color: #333333;
+}
+.hi-fi-wireframe-payment-1 .container-11 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-16 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 32px 28px 31px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-26 {
+  margin-bottom: 105px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .image-30 {
+  background: url('assets/images/Image30.png') 50% / cover no-repeat;
+  margin: 9px 0 6px 0;
+  width: 237px;
+  height: 26px;
+}
+.hi-fi-wireframe-payment-1 .get-in-touch {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .useful-link {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .campaign {
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .container-24 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1259.7px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .line-16 {
+  background: #FFFFFF;
+  width: 79px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment-1 .line-17 {
+  background: #FFFFFF;
+  width: 80px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment-1 .line-18 {
+  background: #FFFFFF;
+  width: 80px;
+  height: 0px;
+}
+.hi-fi-wireframe-payment-1 .container-5 {
+  margin: 0 0 18px 281.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 836px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .address {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .store-office-jl-setrasari-kulon-iii-no-1012-sukarasa-sukasari-bandung-jawa-barat-indonesia-40152 {
+  margin-bottom: 38px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .office-hour {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .monday-sunday-10001800 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .container-12 {
+  margin-right: 47px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .phone {
+  margin: 0 0.6px 15px 0.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .service-center {
+  margin: 0 0.6px 18px 0.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .customer-service {
+  margin: 0 8.6px 37.3px 0.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .combined-shape {
+  width: 42.5px;
+  height: 37.2px;
+}
+.hi-fi-wireframe-payment-1 .facebook {
+  margin-right: 33.2px;
+  display: flex;
+  width: 42.5px;
+  height: 37.2px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .instagram {
+  width: 42.5px;
+  height: 37.2px;
+}
+.hi-fi-wireframe-payment-1 .container-17 {
+  display: flex;
+  flex-direction: row;
+  width: 118.2px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-6 {
+  margin: 0 33.2px 30.5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-1 {
+  margin: 0 6.6px 14px 6.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .container {
+  margin-bottom: 42px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .container-2 {
+  margin-bottom: 66.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .combined-shape-3 {
+  width: 42.5px;
+  height: 37.2px;
+}
+.hi-fi-wireframe-payment-1 .twitter {
+  margin-right: 33.2px;
+  display: flex;
+  width: 42.5px;
+  height: 37.2px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .youtube {
+  width: 42.5px;
+  height: 37.2px;
+}
+.hi-fi-wireframe-payment-1 .container {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 118.2px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-14 {
+  margin: 3px 121.8px 30.5px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .warranty-complaints-order-shipping-tracking-order-about-us-repair-terms-faq {
+  margin: 0 143.9px 60px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .mengenal-arti-cukup-tell-your-difference-waykambas-rebrand-gallery-singo-rakai {
+  margin-bottom: 60px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Taviraj';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.hi-fi-wireframe-payment-1 .container-4 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-8 {
+  background: #D84727;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 322px 101.9px 28px 26px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-19 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .image-25 {
+  background: url('assets/images/Image25.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-26 {
+  background: url('assets/images/Image26.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-27 {
+  background: url('assets/images/Image27.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-28 {
+  background: url('assets/images/Image28.png') 50% / cover no-repeat;
+  width: 131px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-29 {
+  background: url('assets/images/Image29.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .container-15 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1194px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .image-32 {
+  background: url('assets/images/Image32.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-33 {
+  background: url('assets/images/Image33.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-34 {
+  background: url('assets/images/Image34.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-35 {
+  background: url('assets/images/Image35.png') 50% / cover no-repeat;
+  width: 131px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .image-36 {
+  background: url('assets/images/Image36.png') 50% / cover no-repeat;
+  width: 133px;
+  height: 116px;
+}
+.hi-fi-wireframe-payment-1 .container-27 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1194px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment-1 .container-2 {
+  background: #DA5E42;
+  position: absolute;
+  left: -11px;
+  bottom: 407px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 68px 29px 0;
+  width: 1440px;
+  height: 273px;
+  box-sizing: border-box;
+}
+.hi-fi-wireframe-payment {
+  background: #F7F6F4;
+  display: flex;
+  padding: 30px 0 0 1px;
+  width: 1440px;
+  box-sizing: border-box;
+}
